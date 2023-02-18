@@ -11,4 +11,4 @@ I added 3 different styles of map so the user could decide which they prefer. Th
 ## Results
 
 Once everything was added together, we had a 3 different style maps that included all of the same data. The site worked with ease and didn't have any errors both in loading the data and all of the appropriate layers were added. A legend was added to the lower right hand side for better understanding of the color coding. The final site looked like this: 
-![map]()
+![map](images/full_map.png)
